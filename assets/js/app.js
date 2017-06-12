@@ -1,3 +1,4 @@
+require('./GPUParticlesSystem');
 import Stars from './Stars';
 import ParticlesSystem from './ParticlesSystem';
 import Planet from './Planet';
